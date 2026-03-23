@@ -437,7 +437,7 @@ header{
         width: 100%;
         margin: 0 auto 20px;
         max-width: 400px;
-        font-size: 0.95rem;
+        font-size: 0.75rem;
     }
 
     .btn {
@@ -573,7 +573,7 @@ header{
         width: 100%;
         margin: 0 auto 15px;
         max-width: 300px;
-        font-size: 0.85rem;
+        font-size: 0.65rem;
     }
 
     .btn {
