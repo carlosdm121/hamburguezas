@@ -269,7 +269,7 @@ header{
 
     .center-nav {
         order: 2;
-        display: flex;
+        display: none;
         gap: 8px;
         justify-content: center;
     }
@@ -396,7 +396,7 @@ header{
 
     .center-nav {
         order: 2;
-        display: flex;
+        display: none;
         gap: 6px;
         justify-content: center;
     }
