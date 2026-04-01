@@ -350,10 +350,14 @@ header{
         z-index: 20;
     }
 
+    .burger-toggle {
+        bottom: 230px;
+    }
+
     .burger-toggle img {
         position: relative;
-        width: 250px;
-        height: 250px;
+        width: 350px;
+        height: 350px;
         right: auto;
         top: auto;
         filter: none;
@@ -475,7 +479,7 @@ header{
 
     .burger-toggle {
         position: fixed;
-        bottom: 160px;
+        bottom: 200px;
         left: 50%;
         transform: translateX(-50%);
         width: 85%;
@@ -486,8 +490,8 @@ header{
 
     .burger-toggle img {
         position: relative;
-        width: 220px;
-        height: 220px;
+        width: 300px;
+        height: 300px;
         right: auto;
         top: auto;
         filter: none;
@@ -614,7 +618,7 @@ header{
 
     .burger-toggle {
         position: fixed;
-        bottom: 150px;
+        bottom: 170px;
         left: 50%;
         transform: translateX(-50%);
         width: 80%;
@@ -625,8 +629,8 @@ header{
 
     .burger-toggle img {
         position: relative;
-        width: 200px;
-        height: 200px;
+        width: 260px;
+        height: 260px;
         right: auto;
         top: auto;
         filter: none;
